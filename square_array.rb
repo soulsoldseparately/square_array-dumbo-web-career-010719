@@ -3,8 +3,8 @@ def square_array(array)
 #  array.each { |item| arr << item ** 2 }
 #  arr
 
-  array.each |item| do
-    arr << item ** 2
-  end
+#  array.each |item| do
+#    arr << item ** 2
+#  end
 end
 #kdllkjfsdlkfjkdlfjdk;
