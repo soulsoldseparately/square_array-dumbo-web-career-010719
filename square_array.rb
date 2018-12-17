@@ -7,5 +7,4 @@ def square_array(array)
     arr << item ** 2
   end
 end
-
 #kdllkjfsdlkfjkdlfjdk;
